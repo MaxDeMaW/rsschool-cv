@@ -14,3 +14,7 @@
 ## Summary
 I want to finish RS with high result. I would like to receive knowledge in web and have fun :)
 I am going to improve JavaScript which really important in web-development.
+
+## Skills
+
+I have basic skills in C#, HTML, CSS. At my job I use PHP. Sometimes I write mobile apps (Unity3D).
