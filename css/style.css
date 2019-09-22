@@ -3,25 +3,42 @@ h1 {
     font-size: 2.7rem;
     font-weight: 600;
     padding: 5px 20px 15px;
+    text-align: center;
   }
   
   h2 {
-    font-weight: 500;
+    font-weight: 700;
     font-size: 1.6rem;
     color: rgb(0, 52, 80);
-    padding: 10px 20px;
-  }
-  
-  h3 {
-    font-size: 1.5rem;
-    color: rgb(0, 52, 80);
-    padding: 20px;
+    padding: 5px 20px;
+    text-decoration: underline;
   }
   
   p {
     font-weight: 300;
-    line-height: 1.7rem;
+    line-height: 1rem;
     text-align: left;
     padding-left: 20px;
+  }
+  
+  body {
+    max-width: 1024px;
+    margin: 0 auto;
+    font-size: 17px;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    background: rgb(0, 52, 80);
+  }
+  header {
+    margin: 75px auto;
+    background: rgb(255, 255, 255);
+    max-width: 800px;
+    border-radius: 25px;
+  }
+  .wrapper {
+    max-width: 800px;
+    margin: 75px auto;
+    border-radius: 25px;
+    background: rgb(255, 255, 255);
   }
   
