@@ -41,4 +41,31 @@ h1 {
     border-radius: 25px;
     background: rgb(255, 255, 255);
   }
+  A {
+    text-decoration: none;
+    color: rgb(0, 111, 185);
+   } 
+   A:hover { 
+    color: rgb(0, 0, 0);
+   }
   
+   section {
+    max-width: 800px;
+    border-bottom:5px solid rgb(0, 52, 80);
+  }
+   .person {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+  }
+  .contentInfo  {
+    width: 70%;
+  }
+ .photo {
+    width: 30%;
+  }
+   .photo img {
+
+    max-width: 120px;
+    padding: 25px;
+  }
