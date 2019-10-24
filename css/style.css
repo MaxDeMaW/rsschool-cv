@@ -1,0 +1,73 @@
+h1 {
+    color: rgb(0, 52, 80);
+    font-size: 2.7rem;
+    font-weight: 600;
+    padding: 5px 20px 15px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-weight: 700;
+    font-size: 1.6rem;
+    color: rgb(0, 52, 80);
+    padding: 5px 20px;
+    text-decoration: underline;
+  }
+  
+  p {
+    font-weight: 300;
+    line-height: 1rem;
+    text-align: left;
+    padding-left: 20px;
+  }
+  
+  body {
+    max-width: 1024px;
+    margin: 0 auto;
+    font-size: 17px;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    background: rgb(0, 52, 80);
+  }
+  header {
+    margin: 75px auto;
+    background: rgb(255, 255, 255);
+    max-width: 800px;
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.7);
+  }
+  .wrapper {
+    max-width: 800px;
+    margin: 75px auto;
+    border-radius: 25px;
+    background: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(0,0,0,0.7);
+  }
+  A {
+    text-decoration: none;
+    color: rgb(0, 111, 185);
+   } 
+   A:hover { 
+    color: rgb(0, 0, 0);
+   }
+  
+   section {
+    max-width: 800px;
+    border-bottom:5px solid rgb(0, 52, 80);
+  }
+   .person {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+  }
+  .contentInfo  {
+    width: 70%;
+  }
+ .photo {
+    width: 30%;
+  }
+   .photo img {
+
+    max-width: 120px;
+    padding: 25px;
+  }
